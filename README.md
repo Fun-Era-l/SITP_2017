@@ -3,7 +3,9 @@
 
 ### 　　为了更加方便merge大家提交的网站 对各位的提交的网址有下列要求
 
-- 仅保留 **域名** + **域名后缀**
+- commit版本仅保留 **域名** + **域名后缀** （主机部分）
+
+  也请保留源文件，做好备份，以后可能会用到。
 
   例：
   >https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%AF%AD%E6%B3%95%20markdown%20%E5%8A%A0%E7%B2%97&oq=%25E8%25AF%25AD%25E6%25B3%2595%2520markdown
